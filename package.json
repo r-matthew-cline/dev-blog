@@ -1,0 +1,27 @@
+{
+  "name": "dev-blog",
+  "version": "0.0.1",
+  "description": "Matt Cline's development blog for machine learning and cloud native applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-matthew-cline/dev-blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Matthew Cline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r-matthew-cline/dev-blog/issues"
+  },
+  "homepage": "https://github.com/r-matthew-cline/dev-blog#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "startbootstrap-clean-blog": "^5.0.4"
+  }
+}
